@@ -31,5 +31,5 @@ A Streamlit-powered app that blends clinical insight with poetic empathy. Upload
 
 ---
 
-website link:- https://heartdiseasepredictor-5hz9cjyxwneux76hvtyana.streamlit.app/
+website link:- https://deeptesh-rout-heart-disease-predictor-app-ymvivo.streamlit.app/
 
